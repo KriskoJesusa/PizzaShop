@@ -1,0 +1,12 @@
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\bin\Debug\TravelCompany.exe.config
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\bin\Debug\TravelCompany.exe
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\bin\Debug\TravelCompany.pdb
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\PizzaShop.csproj.SuggestedBindingRedirects.cache
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\TravelCompany.NewOrder.resources
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\TravelCompany.MainInterface.resources
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\TravelCompany.Properties.Resources.resources
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\TravelCompany.Orders.resources
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\PizzaShop.csproj.GenerateResource.cache
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\PizzaShop.csproj.CoreCompileInputs.cache
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\TravelCompany.exe
+C:\Users\KriskoJesusa\source\repos\TravelCompany\TravelCompany\obj\Debug\TravelCompany.pdb
